@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "The cat jumped over the lazy dog" | sed 's/A/Z/g; s/C/E/g'
